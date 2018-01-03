@@ -7,9 +7,7 @@
 		"128": "img/steem128.png"
 	},
 	"browser_action": {
-    	"default_icon": "img/steem128.png",
-    	"default_popup": "popup.html",
-    	"default_title": "Steem2Fiat Settings"
+    	"default_icon": "img/steem128.png"
   	},
 	"content_scripts": [
 		{ 
